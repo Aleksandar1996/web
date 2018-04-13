@@ -1,0 +1,28 @@
+{
+  "Stovariste_itemi": [
+    {
+      "id": 0,
+      "ime": "nije selektovano"
+    },
+    {
+      "id": 2,
+      "ime": "Gvozdje"
+    },
+    {
+      "id": 3,
+      "ime": "Aluminijum"
+    },
+    {
+      "id": 4,
+      "ime": "Celik"
+    },
+    {
+      "id": 5,
+      "ime": "Mesing"
+    },
+    {
+      "id": 6,
+      "ime": "Bakar"
+    }
+  ]
+}
